@@ -1,0 +1,95 @@
+/*-----------------------------------
+	Navbar 
+-----------------------------------*/
+
+.minicart{
+	background:url(../images/sprite.png);
+	background-position: -156px 11px;
+	background-repeat:no-repeat;
+	width: 40px;
+	height: 50px;
+	padding-right: 32px;
+}
+
+.navbar{
+	background-color: #4ea6bc;
+	padding: 15px ;
+	border-radius: 0;
+	margin: 0;
+}
+
+.navbar-brand{
+	color: #fff;
+	font-family: Open Sans, sans-serif;
+	padding-left: 32px;
+}
+
+.navbar-brand:hover{
+	color: #fff;
+}
+
+
+html{
+  font-family:Gill Sans, sans-serif; 
+  font-size: 20px;
+  background-image: url("https://wallpaperbrowse.com/media/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+  background-size: cover;
+}
+button{
+  font-size: 25px;
+  Width: wrap;  
+  margin-left: 0px;
+  margin-right: 0px;
+  /*display: inline block;*/
+  cursor: pointer;
+  float: left;
+   border:solid #FEDF15;
+  background-color: #FEDF15;
+}
+.top{
+  margin: 22px;
+  margin-bottom: 60px;
+}
+#dash{
+  font-weight: 600;
+  box-shadow: 5px 9px 7px #B9A310;
+}
+
+body{
+ margin: 0 !important;
+ padding: 0 !important;
+ text-align: center;
+ min-height: 100%;
+}
+textarea, select{
+  width:50%;
+  padding: 10px 20px;
+  margin:8px;
+  display: inline-block;
+  box-sizing: border-box;
+  border: solid #e2e2e2;
+  font-family:Gill Sans, sans-serif;
+}
+
+h2{
+  font-size: 50px;
+  font-weight: normal;
+  font-weight: 600;
+}
+
+h2,.bloc{
+  background-color:#fff;
+  margin:auto;
+  margin-bottom: 20px;
+  width: 100%;
+  padding:15px;
+}
+
+footer{
+  padding: 30px;
+}
+#submit{
+  background-color: #f0f0f0;
+  font-size: 20px;
+  border:solid #f0f0f0;
+}
