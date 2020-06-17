@@ -35,17 +35,6 @@ html{
   background-image: url("https://wallpaperbrowse.com/media/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
   background-size: cover;
 }
-button{
-  font-size: 25px;
-  Width: wrap;  
-  margin-left: 0px;
-  margin-right: 0px;
-  /*display: inline block;*/
-  cursor: pointer;
-  float: left;
-   border:solid #FEDF15;
-  background-color: #FEDF15;
-}
 .top{
   margin: 22px;
   margin-bottom: 60px;
@@ -85,9 +74,6 @@ h2,.bloc{
   padding:15px;
 }
 
-footer{
-  padding: 30px;
-}
 #submit{
   background-color: #f0f0f0;
   font-size: 20px;
